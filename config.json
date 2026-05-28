@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configerocess",
+        "uuid": 36347064,
+        "checksum": "3c85v9"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
